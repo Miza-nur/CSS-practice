@@ -1,0 +1,28 @@
+.trdiv{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    margin: 10%;
+    
+}
+.trdiv1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    transform: rotate(45deg);
+}
+.trdiv2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    transform: rotate(20deg);
+}
+.trdiv3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    transform: rotate(50deg);
+}
