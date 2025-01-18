@@ -1,0 +1,12 @@
+.mydiv{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    animation-name: myanimation;
+    animation-duration: 4s;
+}
+
+@keyframes myanimation{
+    from{background-color: red;}
+    to{background-color: yellow;}
+}
