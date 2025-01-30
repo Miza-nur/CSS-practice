@@ -1,0 +1,57 @@
+div{
+  text-align: center;
+  margin-top: 8px;
+}
+
+.div1{
+    cursor: auto ;
+}
+.div2{
+    cursor: crosshair;
+}
+.div3{
+    cursor: default;
+}
+.div4{
+    cursor: Pointer;
+}
+.div5{
+    cursor: Move;
+}
+.div6{
+    cursor: e-resize;
+}
+.div7{
+    cursor: ne-resize;
+}
+.div8{
+    cursor: nw-resize;
+}
+.div8{
+    cursor: n-resize;
+}
+.div9{
+    cursor: se-resize;
+}
+.div10{
+    cursor: sw-resize;
+}
+.div11{
+    cursor: s-resize;
+}
+.div12{
+    cursor: w-resize;
+}
+.div13{
+    cursor: text;
+}
+.div14{
+    cursor: wait;
+}
+.div15{
+    cursor: help;
+}
+.div16{
+    cursor: ;
+}
+
