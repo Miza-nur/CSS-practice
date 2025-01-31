@@ -31,4 +31,7 @@
     height: 200px;
     border: 1px solid black;
     margin-top: 10px;
+    border-radius: 80px 0px;
+    background-color: cadetblue;
+    text-align: center;
 }
