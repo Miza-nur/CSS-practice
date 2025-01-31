@@ -1,0 +1,6 @@
+.p1:hover{
+    visibility: hidden;
+}
+.p2{
+    visibility: collapse;
+}
